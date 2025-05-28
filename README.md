@@ -8,6 +8,8 @@
 
 This report leverages Tableau visualizations to analyze customer complaint data, providing insights into trends, patterns, and root causes. By examining the stacked bar chart, line chart, and treemap, we aim to improve decision-making, identify opportunities, and mitigate risks. The stacked bar chart breaks down complaints by product category and measure, highlighting areas of concern. The line chart visualizes the trend of complaints over time, identifying seasonal patterns or sudden spikes. The treemap shows the distribution of complaints across product categories and subcategories, highlighting high-complaint areas.
 Through these visualizations, we can prioritize products with high complaint volumes, identify areas for process improvement, and monitor complaint trends to detect potential issues early on. By leveraging these insights, organizations can make data-driven decisions to enhance customer satisfaction and operational efficiency.
+![image](https://github.com/user-attachments/assets/cdde564e-4aec-4a6e-8104-9a450d648b0f)
+
 ## First Visualization
 ### Title: Complaint Distribution by Product and Measure 
 
