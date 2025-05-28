@@ -23,7 +23,8 @@ Critical Analysis:
 
 	Prioritization - The chart highlights product groupings with the highest number of complaints, enabling focused attention and resource allocation. 
 	Measure-Level Analysis - By breaking down complaints into specific measures, it allows for a granular understanding of the underlying issues. 
-	Comparative Analysis - The chart facilitates comparison between different product groupings, helping identify potential trends and patterns. 
+	Comparative Analysis - The chart facilitates comparison between different product groupings, helping identify potential trends and patterns.
+
  ![image](https://github.com/user-attachments/assets/6d4911d0-f2e1-4184-a2f1-b77199b55f05)
 
 
